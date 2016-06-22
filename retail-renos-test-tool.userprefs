@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="retail-renos-test-tool.Desktop/retail-renos-test-tool.Desktop.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="retail-renos-test-tool.Mac/Program.cs">
+    <Files>
+      <File FileName="retail-renos-test-tool-lib/MainForm.cs" Line="23" Column="1" />
+      <File FileName="retail-renos-test-tool-lib/DataExporter.cs" Line="1" Column="1" />
+      <File FileName="retail-renos-test-tool-lib/ReferenceEPCs.cs" Line="1" Column="1" />
+      <File FileName="retail-renos-test-tool-lib/TestRun.cs" Line="1" Column="1" />
+      <File FileName="retail-renos-test-tool-lib/Test Files/TargetExample.csv" Line="1" Column="1" />
+      <File FileName="retail-renos-test-tool.Mac/Program.cs" Line="15" Column="1" />
+      <File FileName="retail-renos-test-tool-lib/Test Files/StrayExample.csv" Line="1" Column="1" />
+      <File FileName="retail-renos-test-tool.Mac/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="retail-renos-test-tool" expanded="True">
+            <Node name="retail-renos-test-tool.Desktop" expanded="True">
+              <Node name="Packages" expanded="True">
+                <Node name="Eto.Forms" selected="True" />
+              </Node>
+            </Node>
+            <Node name="retail-renos-test-tool.Mac" expanded="True" />
+            <Node name="retail-renos-test-tool-lib" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.retail-renos-test-tool.Desktop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.retail-renos-test-tool.Mac PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

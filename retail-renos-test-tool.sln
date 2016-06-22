@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retail-renos-test-tool.Desktop", "retail-renos-test-tool.Desktop\retail-renos-test-tool.Desktop.csproj", "{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retail-renos-test-tool.Mac", "retail-renos-test-tool.Mac\retail-renos-test-tool.Mac.csproj", "{82700E04-53C6-41D4-A559-49ADEECE111C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retail-renos-test-tool-lib", "retail-renos-test-tool-lib\retail-renos-test-tool-lib.csproj", "{993A03C3-1DCE-4743-9E45-35576717EF31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Debug|iPhone.ActiveCfg = Debug|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Debug|iPhone.Build.0 = Debug|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Debug|iPhoneSimulator.ActiveCfg = Debug|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Debug|iPhoneSimulator.Build.0 = Debug|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Debug|x86.ActiveCfg = Debug|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Debug|x86.Build.0 = Debug|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Release|iPhone.ActiveCfg = Release|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Release|iPhone.Build.0 = Release|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Release|iPhoneSimulator.ActiveCfg = Release|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Release|iPhoneSimulator.Build.0 = Release|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Release|x86.ActiveCfg = Release|x86
+		{776DE8B1-1D5C-4B60-A5C2-8B6368E088F3}.Release|x86.Build.0 = Release|x86
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Debug|x86.Build.0 = Debug|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Release|iPhone.Build.0 = Release|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Release|x86.ActiveCfg = Release|Any CPU
+		{82700E04-53C6-41D4-A559-49ADEECE111C}.Release|x86.Build.0 = Release|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Debug|x86.Build.0 = Debug|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Release|iPhone.Build.0 = Release|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Release|x86.ActiveCfg = Release|Any CPU
+		{993A03C3-1DCE-4743-9E45-35576717EF31}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		version = 0.9
+	EndGlobalSection
+EndGlobal
